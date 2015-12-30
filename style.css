@@ -57,6 +57,22 @@
 	text-transform: uppercase;
 }
 
+.mobile-menu {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: pink;
+	padding: 0px;
+	margin: 0px;
+	width: 330px;
+}
+.mobile-menu img {
+	padding: 0px;
+	margin: 0px;
+	width: 500px;
+	height: 50px;
+}
+
 .main {
 	text-align: left;
 }
